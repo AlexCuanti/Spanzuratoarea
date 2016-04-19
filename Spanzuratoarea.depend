@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1460974201 source:d:\codeblocks\spanzuratoarea\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdfix.h>
+	<conio.h>
+	<cstdlib>
+
